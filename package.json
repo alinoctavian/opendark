@@ -1,0 +1,22 @@
+{
+    "name": "opendark",
+    "displayName": "OpenDark",
+    "description": "A nice vscode theme",
+    "publisher": "allin",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OpenDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OpenDark-color-theme.json"
+            }
+        ]
+    }
+}
