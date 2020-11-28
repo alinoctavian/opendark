@@ -1,0 +1,2 @@
+# opendark
+An VSCode theme
